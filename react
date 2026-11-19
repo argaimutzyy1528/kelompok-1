@@ -1,0 +1,18 @@
+ src/
+├── components/
+│   ├── Sidebar.jsx 
+│   ├── Header.jsx 
+│   ├── DashboardView.jsx
+│   ├── MasterDataView.jsx 
+│   └── TransaksiFormView.jsx 
+├── pages/
+│   │   └── Login.jsx
+│   │   └── Register.jsx
+└── css/
+|    └── login.css 
+|    └── Register.css 
+│    
+│   
+│   
+├── App.jsx
+└── App.css

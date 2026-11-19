@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Admin",
+      "email": "admin@gmail.com",
+      "password": "123456"
+    },
+    {
+      "nama": "Arga floxa",
+      "email": "Bomamahardika411@gmail.com",
+      "password": "BOMAPULANG6",
+      "id": "7mDDmJhUOL0"
+    },
+    {
+      "nama": "Boma",
+      "email": "ArgaFloxaa12@gmail.com",
+      "password": "ARGAAMAY5",
+      "id": "M5Jpakcgq8s"
+    },
+    {
+      "nama": "Arga floxa",
+      "email": "argafloxa@gmail.com",
+      "password": "123456789",
+      "id": "k41MJ0UVZMM"
+    }
+  ],
+  "login": [],
+  "registrasi": [],
+  "transactions": [],
+  "categories": [],
+  "$schema": "./node_modules/json-server/schema.json"
+}
